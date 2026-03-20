@@ -1,2 +1,3 @@
-# prime-recommendation-engine-kegd
-Automated issue comment bot repository
+# Prime Recommendation Engine Kegd
+
+Automated issue comment bot repository.
